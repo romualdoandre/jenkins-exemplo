@@ -6,7 +6,7 @@ public class Imposto {
 	}
 
 	public double calcula(Orcamento orcamento) {
-		System.out.println("teste");
+		System.out.println("teste no meu repositorio.");
 		return orcamento.getValor() * 0.1;
 	}
 
